@@ -1,0 +1,25 @@
+{
+  "name": "scrapew-node-sdk",
+  "version": "1.0.0",
+  "description": "Scrapew Node SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrapew/scrapew-node-sdk.git"
+  },
+  "keywords": [
+    "crawler",
+    "scraper",
+    "structred",
+    "data"
+  ],
+  "author": "Baran Berkay Barakçin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scrapew/scrapew-node-sdk/issues"
+  },
+  "homepage": "https://github.com/scrapew/scrapew-node-sdk#readme"
+}
